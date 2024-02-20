@@ -2,9 +2,9 @@
 <br>
 
 ## Download the project
-1. Download the zip file from the inbox
-2. Extract the zip from download folder
-3. copy this "UTubeChannelsEmailScraperV1.0.0" folder and put it in a folder you want
+1. Download the zip file```project_zip_file.zip``` from the inbox
+2. Extract the ```project_zip_file.zip``` from download folder
+3. copy this "UTubeChannelsEmailScraperV1.0.0" folder and past it in a folder you want
 
 hint: to see / copy the full path of "UTubeChannelsEmailScraperV1.0.0" folder
 1. select the folder
